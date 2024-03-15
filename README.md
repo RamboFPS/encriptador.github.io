@@ -1,0 +1,1 @@
+# Encriptador desenvolvido em HTML,CSS e JavaScript
